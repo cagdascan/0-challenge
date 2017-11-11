@@ -1,0 +1,21 @@
+@import "~antd/dist/antd.css";
+
+.ant-layout {
+  height: 100vh;
+  background: #fff;
+}
+
+.ant-layout-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #efefef;
+  box-shadow: 0 1px 6px 0 rgba(246, 137, 31, 1);
+  z-index: 1;
+  padding: 0 20px;
+}
+
+.ant-input {
+  height: 38px;
+  padding: 10px 20px;
+}

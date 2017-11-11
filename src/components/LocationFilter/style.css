@@ -1,0 +1,29 @@
+.matched {
+  color: rgba(246, 137, 31, 1);
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.location-list {
+  margin: 20px;
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+}
+
+.location-list li {
+  padding: 10px 20px;
+  border-bottom: 1px solid #d9d9d9;
+}
+
+.location-list li:last-child {
+  border: none;
+}
+
+.filter {
+  height: 100px;
+}
+
+.input-container {
+  width: calc(100% - 40px);
+  margin: 0 20px 20px;
+}
