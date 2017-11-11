@@ -10,6 +10,7 @@
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
     "eslint-plugin-react": "^7.4.0",
+    "gh-pages": "^1.0.0",
     "lint-staged": "^4.2.3",
     "pre-commit": "^1.2.2"
   },
@@ -27,5 +28,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "homepage": "https://cagdascan.github.io/0-challenge/"
 }
